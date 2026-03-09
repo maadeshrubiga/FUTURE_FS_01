@@ -34,6 +34,9 @@ To start the development server, use the following command:
 cd FUTURE_FS_01 && npm run dev
 ```
 
+If this command not work , try the below command to execute:
+cd FUTURE_FS_01-main/FUTURE_FS_01 && npm install && npm run dev
+
 ## Access the Project
 
 Visit the live project at: **https://the-friendly-profile.lovable.app**
